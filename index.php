@@ -34,7 +34,7 @@
         <br>
 
         <div class="card shadow mt-2">
-            <div class="card-header">Data Silsila</div>
+            <div class="card-header">Data Silsilah</div>
             <div class="card-body">
                 <a class="btn btn-success btn-sm" href="add.php"><i class="bi bi-plus-circle"></i> Add data</a>
                 <div class="table-responsive mt-2">
