@@ -41,7 +41,7 @@
                     <table class="table table-bordered" style="witdh:100%">
                         <tr>
                             <th class="bg-dark text-white text-center">No</th>
-                            <th class="bg-dark text-white">Name</th>
+                            <th class="bg-dark text-white">Nama</th>
                             <th class="bg-dark text-white">Jensi Kelamin</th>
                             <th class="bg-dark text-white text-center">Action</th>
                         </tr>
