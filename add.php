@@ -34,11 +34,6 @@
                                     <input type="text" class="form-control" name="jenis_kelamin" id="jenis_kelamin"
                                         placeholder="jenis_kelamin" require>
                                 </div>
-                                <!-- <div class="col-md-12 mt-2">
-                                    <label for="message">Message:</label>
-                                    <input type="text" class="form-control" name="message" id="message"
-                                        placeholder="message">
-                                </div> -->
                                 <div class="col-md-12 mt-4">
                                     <a class="btn btn-secondary btn-sm" href="index.php">Back to home</a>
                                     <button type="submit" class="btn btn-primary btn-sm">Save</button>

@@ -43,7 +43,6 @@
                             <th class="bg-dark text-white text-center">No</th>
                             <th class="bg-dark text-white">Name</th>
                             <th class="bg-dark text-white">Jensi Kelamin</th>
-                            <!-- <th class="bg-dark text-white">Message</th> -->
                             <th class="bg-dark text-white text-center">Action</th>
                         </tr>
                         <?php 
